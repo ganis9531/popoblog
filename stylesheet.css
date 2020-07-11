@@ -40,3 +40,9 @@ header{
   padding:10px;
   height:2000px;
 }
+.sub a{
+  color:rgb(255,230,230);
+}
+.sub a:hover{
+  opacty:0.7;
+}
