@@ -43,6 +43,6 @@ header{
 .sub a{
   color:rgb(255,230,230);
 }
-.sub a:hover{
+.btn:hover{
   opacty:0.7;
 }
