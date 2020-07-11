@@ -31,3 +31,12 @@ header{
   text-align:right;
   margino-topp:1000px;
 }
+.sub{
+  background-color: rgba(0,0,0, 0.5);
+  color:#fff;
+  width:16%;
+  float:left;
+  margin-right:3px;
+  padding:10px;
+  height:2000px;
+}
