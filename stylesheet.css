@@ -3,12 +3,6 @@ body{
   background-size:cover;
   background-attachment: fixed;
 }
-@media screen and (max-width:670px){
-  body{
-  background-image: url(ishigaki.jpg);
-  background-attachment: fixed;
-}
-}
 header{
   background-image:url(maikura2.png);
   width:100%;
@@ -35,7 +29,7 @@ header{
 }
 .end{
   text-align:right;
-  margin-top:10000px;
+  margin-top:1000px;
 }
 .sub{
   background-color: rgba(0,0,0, 0.5);
