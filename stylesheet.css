@@ -2,6 +2,7 @@ body{
   background-image: url(ishigaki.jpg);
   background-size:cover;
   background-attachment: fixed;
+  height:2000px;
 }
 header{
   background-image:url(maikura2.png);
